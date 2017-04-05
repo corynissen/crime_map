@@ -1,6 +1,5 @@
 
 library("googlesheets")
-library("hms")
 library("ggmap")
 
 # requires auth on my acct
